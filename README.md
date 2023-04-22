@@ -31,3 +31,8 @@ For the `target` parameter:
 
 Set `save` to `True` if you want to run evaluation protocol 2, which requires a completely recovered dataset.
 
+
+## Pre-trained Checkpoints
+We release the checkpoints for our VGG16 target model and the corresponding generation backbones at this link:
+
+https://drive.google.com/drive/folders/149LMfBEmhcFr1S2y6PLXf3WqqPA8-We0?usp=sharing
