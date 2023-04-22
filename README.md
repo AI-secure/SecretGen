@@ -1,4 +1,4 @@
-# SecretGen: Privacy Recovery on Large Models via Distribution Discrimination
+# SecretGen: Privacy Recovery on Pre-trained Models via Distribution Discrimination
 
 
 ## Requirements
